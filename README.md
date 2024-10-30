@@ -32,7 +32,7 @@
 
 📅- Created - 2024-10-30
 
-⌨- Technologies Used: Html , css , js , React.jsx , Next.jsx , Formik , yup , Zustand , Tailwind , recharts , react-icons , Responsive
+⌨- Technologies Used: Html , css , js , React.jsx , Next.jsx , Formik , yup , Zustand , Tailwind , recharts , react-icons , Responsive , Api-rest , mockApi
 
 - Hooks Used : useState 
 
