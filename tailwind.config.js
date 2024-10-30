@@ -7,9 +7,12 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      screens: {
+        'mobiles': '320px',
+        'mobileM': '375px',
+        'mobileL': '425px',
+        'loptapL' : '1440px',
+        'mobileFourK' : '2560px',
       },
     },
   },
