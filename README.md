@@ -26,7 +26,7 @@
 
 ![12](https://github.com/user-attachments/assets/647fdaac-f4ba-4938-93cb-87e79d0ba419)
 
-- [Demo Project](https://panel-admin-five.vercel.app/?__vercel_draft=1)
+- [Demo Project](https://panel-admin-axdu.vercel.app/)
 
 👩‍💻- Developed by Melika Haqshenas
 
