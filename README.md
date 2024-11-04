@@ -1,41 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Panel-Admin
 
-## Getting Started
+**If you have a lot of information about your site and you want to see it in a suitable platform, why don't you use my Admin Panl?**
 
-First, run the development server:
+![1](https://github.com/user-attachments/assets/0e653e2f-24f3-40ea-aeaa-c9cda14a8019)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![2](https://github.com/user-attachments/assets/90edcdef-46da-4535-a03a-9ea3125c8d7f)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![3](https://github.com/user-attachments/assets/bb1641a3-1e60-49a6-a646-5b2a6fe215f2)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![4](https://github.com/user-attachments/assets/0ce8daa0-da30-4cb5-af64-593b1fb62762)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![5](https://github.com/user-attachments/assets/924bde8b-3433-474d-a0b8-403ca15a881d)
 
-## Learn More
+![6](https://github.com/user-attachments/assets/a2f61516-a578-4b95-b9dd-741248c14d61)
 
-To learn more about Next.js, take a look at the following resources:
+![7](https://github.com/user-attachments/assets/4181311d-1751-421b-a3c5-2cffbe258135)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![8](https://github.com/user-attachments/assets/8c562d93-8d67-41c7-9785-9a03f23652e8)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![9](https://github.com/user-attachments/assets/0e6e3b0d-ad80-4b6d-ba18-935267021a56)
 
-## Deploy on Vercel
+![10](https://github.com/user-attachments/assets/7578a2d0-330b-4437-9589-6db990b3ec82)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![11](https://github.com/user-attachments/assets/63fdeb94-a0cd-484d-b4e1-cb66f2c7147b)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# Panel-Admin" 
-"# Panel-Admin" 
-"# Panel-Admin" 
-"# Panel-Admin" 
-"# Panel-Admin" 
+![12](https://github.com/user-attachments/assets/647fdaac-f4ba-4938-93cb-87e79d0ba419)
+
+- [Demo Project](https://panel-admin-five.vercel.app/?__vercel_draft=1)
+
+👩‍💻- Developed by Melika Haqshenas
+
+📅- Created - 2024-11-4
+
+⌨- Technologies Used: Html , css , js , React.jsx , Next.jsx , Formik , yup , Zustand , Tailwind , recharts , react-icons , Responsive , Api-rest , mockApi
+
+- Hooks Used : useState 
+
+- Role - Frontend
+
+🖱- How to reach me : with my [instagram](https://www.instagram.com/melika.haqshenas_web/) and [linkedin](https://www.linkedin.com/in/melika-haqshenas-web/)
