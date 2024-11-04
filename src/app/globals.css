@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  overflow-x: hidden;
+}
+
+#layoutmain{
+  overflow-x: hidden;
+}
+
+@keyframes fade {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+.animate-fade {
+  animation: fade 29.5s ease-out forwards;
+}
